@@ -1,0 +1,23 @@
+
+.mainframe{
+    background-color: rgb(17, 13, 17);
+}
+bg{
+    background-color: black;
+}
+nav{
+    background-color: aqua;
+}
+.container-fluid{
+    background-color: rgb(228, 251, 243);
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(232, 211, 232);
+}
+.cityNa{
+    height: 20px;
+    background-color: blue;
+    width: 50px;
+}
